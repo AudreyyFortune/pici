@@ -21,7 +21,7 @@ def lecture(name):
 		dataframe 
     		Contain all the lines of the pdb file containing the amino acids.
     		Table with as columns: the residue, the position, the atom, the position of 
-    		the atom, the chain, the coordinates x, y and z, as well as the occupancy.
+    		the atom, the chain, the coordinates x, y and z, as well as the occupancy .
 	"""
 	flag_count = 0
 	flag_shape = 0
